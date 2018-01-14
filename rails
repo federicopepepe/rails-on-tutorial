@@ -1,0 +1,11 @@
+[33mcommit 786547c4dc09b970f8d1c052cfce97618ec5046f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: your name <ec2-user@ip-172-31-36-141.us-east-2.compute.internal>
+Date:   Sun Jan 14 13:34:48 2018 +0000
+
+    initialize repository
+
+[33mcommit 085d8d5799887ce8826cbe8a7213bd362bb38856[m
+Author: EC2 Default User <ec2-user@ip-172-31-36-141.us-east-2.compute.internal>
+Date:   Sat Jan 13 05:54:08 2018 +0000
+
+    initialize repository

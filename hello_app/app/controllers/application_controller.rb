@@ -6,3 +6,10 @@ class ApplicationController < ActionController::Base
   end
   
 end
+class applicationcontroller <actioncontroller::base
+  protect_from_forgery with: :exeption
+  
+  def hellorender html:"helloword!"
+  end
+  
+end
